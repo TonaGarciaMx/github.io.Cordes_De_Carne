@@ -1,0 +1,331 @@
+*{
+	padding: 0;
+	margin: o;
+}
+
+body{
+	color:black ;
+	background: #f8eee2 ;
+	font-family: Arial, sans-serif;
+}
+
+.contenedor{
+	width: 100%;
+}
+
+.main{
+	width: 70%;
+}
+
+.menucompleto {
+	background:#ffcb76;
+	display: inline-block;
+	border-radius:50px;
+	margin: 0px;
+	width: 2100px;
+	height: 50px;
+	padding: 0px;
+}
+
+.inicio{
+	background: #ffcb76;
+	padding: 4px;
+	margin: 7px 2px;
+}
+
+.inicio:hover img{
+	transform: scale(1.1);
+}
+
+.inicio a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.search{
+	margin-left: 5px;
+}
+
+.search:hover img{
+	transform: scale(1.1);
+}
+
+.search a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.facebook{
+	margin-left: 1905px;
+}
+
+.facebook:hover img{
+	transform: scale(1.1);
+}
+
+.facebook a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.youtube{
+	margin-left: 5px;
+}
+
+.youtube:hover img{
+	transform: scale(1.1);
+}
+
+.youtube a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.instagram{
+	margin-left: 5px;
+}
+
+.instagram:hover img{
+	transform: scale(1.1);
+}
+
+.instagram a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.whatsapp{
+	margin-left: 5px;
+}
+
+.whatsapp:hover img{
+	transform: scale(1.1);
+}
+
+.whatsapp a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.encabezado {
+	margin-right: 700px;
+	margin-left: 850px;
+}
+
+.encabezado figure:hover img{
+	transform: scale(1.1);
+}
+
+.encabezado figure img{
+	transition: all 500ms ease-out;
+}
+
+.titulo {
+	margin-right: 700px;
+	margin-left: 930px;
+}
+
+/*costillas*/
+.costillas{
+	margin: 20px 10px;
+	background: #ff4343;
+	height: 225px;
+	width: 1650px;
+	margin-right: 10px;
+	margin-left: 20px;
+	padding: 30px;
+	display: inline-block;
+	border-radius:50px;
+	font-size: 24px;
+	box-shadow: 0px 10px 25px;
+}
+
+.costillas:hover img{
+	transform: scale(1.1);
+}
+
+.costillas img{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+/*boton Costilla*/
+.boton-pagar{
+	margin-right: 40px;
+	margin-left: 40px;
+	background: grey;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-flex;
+	cursor: pointer;
+}
+
+/*New York*/
+.newyork{
+	margin: 20px 10px;
+	background: #ff4343;
+	height: 225px;
+	width: 1650px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 30px;
+	display: inline-block;
+	border-radius:50px;
+	font-size: 24px;
+	box-shadow: 0px 10px 25px;
+}
+
+.newyork:hover img{
+	transform: scale(1.1);
+}
+
+.newyork img{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+/*boton New York*/
+.boton-pagar{
+	margin-right: 40px;
+	margin-left: 40px;
+	background: grey;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-flex;
+	cursor: pointer;
+}
+
+/*Picaña*/
+.picaña{
+	margin: 20px 10px;
+	background: #ff4343;
+	height: 225px;
+	width: 1650px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 30px;
+	display: inline-block;
+	border-radius:50px;
+	font-size: 24px;
+	box-shadow: 0px 10px 25px;
+}
+
+.picaña:hover img{
+	transform: scale(1.1);
+}
+
+.picaña img{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+/*boton Picaña*/
+.boton-pagar{
+	margin-right: 40px;
+	margin-left: 40px;
+	background: grey;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-flex;
+	cursor: pointer;
+
+}
+
+/*Sirlon*/
+.sirlon{
+	margin: 20px 10px;
+	background: #ff4343;
+	height: 225px;
+	width: 1650px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 30px;
+	display: inline-block;
+	border-radius:50px;
+	font-size: 24px;
+	box-shadow: 0px 10px 25px;
+}
+
+.sirlon:hover img{
+	transform: scale(1.1);
+}
+
+.sirlon img{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+/*boton Sirlon*/
+.boton-pagar{
+	margin-right: 40px;
+	margin-left: 40px;
+	background: grey;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-flex;
+	cursor: pointer;
+}
+
+/*Contecto*/
+.contacto{
+	margin: 20px 10px;
+	background: #ffcb76;
+	border-radius:80px;
+	padding: 30px 10px;
+	box-shadow: 0px 10px 25px;
+}
+
+.contacto h1{
+	margin-left: 900px;
+	font-size: 50px;
+}
+
+.contacto p{
+	margin-left: 750px;
+	font-size: 30px;
+}
+
+.contacto .facecontact{
+	margin-left: 960px;
+	font-size: 30px;
+}
+
+.p{
+	font-size: 30px;
+	margin-left: 960px;
+	padding: 30px;
+}
+
+.maps{
+	padding: 30px;
+	margin-left: 800px;
+	margin-right: 600px;
+	transition: all 500ms ease-out;
+	border-radius:1000px;
+}
+
+.maps:hover{
+	transform: scale(1.1);
+}
+
+/*Copyrigth*/
+.copyright{
+	margin-left: 1000px;
+	padding: 5px;
+}
+
+.boton-pagar:hover {
+	opacity: .8;
+	transform: scale(1.1);
+}
+
+/*efectos*/
+.redondo{
+	border-radius:80px;
+	transition: all 500ms ease-out;
+
+}

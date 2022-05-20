@@ -1,0 +1,189 @@
+*{
+	padding: 0;
+	margin: o;
+}
+
+body{
+	color:black ;
+	background: #f8eee2 ;
+	font-family: Arial, sans-serif;
+}
+
+.menucompleto {
+	background:#ffcb76;
+	display: inline-block;
+	border-radius:50px;
+	margin: 0px;
+	width: 2100px;
+	height: 50px;
+	padding: 0px;
+}
+
+.inicio{
+	background: #ffcb76;
+	padding: 4px;
+	margin: 7px 2px;
+}
+
+.inicio:hover img{
+	transform: scale(1.1);
+}
+
+.inicio a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.search{
+	margin-left: 5px;
+}
+
+.search:hover img{
+	transform: scale(1.1);
+}
+
+.search a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.facebook{
+	margin-left: 1905px;
+}
+
+.facebook:hover img{
+	transform: scale(1.1);
+}
+
+.facebook a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.youtube{
+	margin-left: 5px;
+}
+
+.youtube:hover img{
+	transform: scale(1.1);
+}
+
+.youtube a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.instagram{
+	margin-left: 5px;
+}
+
+.instagram:hover img{
+	transform: scale(1.1);
+}
+
+.instagram a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.whatsapp{
+	margin-left: 5px;
+}
+
+.whatsapp:hover img{
+	transform: scale(1.1);
+}
+
+.whatsapp a{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.encabezadoNY {
+	margin: 20PX;
+	margin-right: 700px;
+	margin-left: 850px;
+}
+
+.encabezadoNY:hover img{
+	transform: scale(1.1);
+}
+
+.encabezadoNY img{
+	transition: all 500ms ease-out;
+	border-radius:10px;
+}
+
+.tituloNY {
+	margin-right: 700px;
+	margin-left: 1000px;
+}
+
+/*descripcion*/
+.desNY{
+	background: #ff4343;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 30px;
+	border-radius:80px;
+	margin: 10px;
+	box-shadow: 0px 10px 25px;
+}
+
+.desNY h1{
+	margin-left: 850px;
+	font-size: 50px;
+}
+
+.desNY p{
+	font-size: 20px;
+	margin-left: 450px;
+}
+
+.desNY h2{
+	margin-left: 900px;
+	font-size: 30px;
+}
+
+.menuingredientes li{
+	font-size: 20px;
+	margin-left: 900px;
+}
+
+.menuingredientes h3{
+	margin-left: 900px;
+	font-size: 40px;
+}
+
+.desNY h4{
+	margin-left: 650px;
+	font-size: 20px;
+}
+
+.boton-comprar{
+	margin-left: 400px;
+	background: grey;
+	margin: 50PX;
+	margin-left: 950px;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-flex;
+}
+
+.redondo{
+	border-radius:80px;
+	transition: all 500ms ease-out;
+}
+
+.boton-comprar:hover {
+	opacity: .8;
+	transform: scale(1.1);
+}
+
+/*Copyrigth*/
+.copyright{
+	margin: 10px 0 0 0;
+	margin-left: 980px;
+	padding: 10px;
+}
